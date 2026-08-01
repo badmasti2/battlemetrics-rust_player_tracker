@@ -17,7 +17,9 @@ as soon as they go offline
 - **[Tampermonkey](https://www.tampermonkey.net/)** browser extension
 - A BattleMetrics account is *not* required — this works on public server pages
 
----
+## Preview
+
+![Player Tracker](player.png)
 
 ## Installation
 
