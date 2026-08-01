@@ -43,7 +43,7 @@ That's it — you're ready to track players.
 
 ## Troubleshooting
 
-# No UI showing up at all
+### No UI showing up at all
 
 Go to the Tampermonkey
 
