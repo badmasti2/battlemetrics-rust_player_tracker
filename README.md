@@ -79,7 +79,11 @@ it does not use any private API or authenticated data.
 ## Limitations
 
  The tracker depends on BattleMetrics live activity logs. It only shows tracks the server page your on 
+
  if a player has not appeared in recent activity, their status may show as unknown.
+
  The tracker cannot see players that are currently online unless BattleMetrics provides activity data for them.
- The tracker only works on BattleMetrics Rust server pages.
- You cant find what server someones on
+  
+The tracker only works on BattleMetrics Rust server pages.
+ 
+You cant find what server someones on You need to know what server there on to track them
