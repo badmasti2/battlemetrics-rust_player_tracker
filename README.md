@@ -19,7 +19,7 @@ as soon as they go offline
 
 ## Preview
 
-![Player Tracker](player.png)
+![Player Tracker](Screenshot 2026-08-01 095224.png)
 
 ## Installation
 
