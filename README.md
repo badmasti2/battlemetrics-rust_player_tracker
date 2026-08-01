@@ -1,3 +1,5 @@
+## all the code is open for anyone to read and edit
+
 # BattleMetrics Rust Player Tracker
 
 A Tampermonkey userscript that watches specific Rust players on
