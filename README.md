@@ -43,6 +43,14 @@ That's it — you're ready to track players.
 
 ## Troubleshooting
 
+# No UI showing up at all
+
+Go to the Tampermonkey
+
+Press manage extention And turn on Allow User Scripts
+
+
+
 ### I'm not getting any notifications at all
 
 Run the .bat to fix notifications being disabled when tabbed into your game 
